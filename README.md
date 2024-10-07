@@ -11,7 +11,7 @@ Welcome to the **Ball Game** project! This is an exciting implementation of a bo
 
 ## Demo
 
-You can play the game live [here](https://ball-game-2024.netlify.app/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/277feb1f-8cf0-4ed1-b5af-fea0d9a367e5/deploy-status)](https://ball-game-2024.netlify.app/)
 
 ## Installation
 
