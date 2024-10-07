@@ -1,17 +1,15 @@
 # Ball Game
 
 Welcome to the **Ball Game** project! This is an exciting implementation of a bouncing ball game created using HTML5 Canvas. You can control the paddle with your mouse to change the ball's speed and direction. Challenge yourself to see how long it takes to complete the game!
+View the deployed version of the website here!
+
+**Demo Link：**[![Netlify Status](https://api.netlify.com/api/v1/badges/76ac300f-74cd-47ec-a33b-846ecab363f0/deploy-status)](https://ball-game-2024.netlify.app/)
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Features](#features)
-
-## Demo
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/277feb1f-8cf0-4ed1-b5af-fea0d9a367e5/deploy-status)](https://ball-game-2024.netlify.app/)
 
 ## Installation
 
